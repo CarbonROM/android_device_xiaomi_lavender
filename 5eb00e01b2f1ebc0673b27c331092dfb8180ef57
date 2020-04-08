@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 3B3CE39DC981143E2E29B65A795F73D22FB93FAE 1586354522 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_xiaomi_lavender\nnonce 1586354522-7EB3AC41292BC99B03A9FD47D448CD0A0B3E8760\n\n0000000000000000000000000000000000000000 5eb00e01b2f1ebc0673b27c331092dfb8180ef57 refs/for/cr-8.0\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEOzzjncmBFD4uKbZaeV9z0i+5P64FAl6N2VoACgkQeV9z0i+5\nP64yTggAxOfu0AHI8DcozhSe2/HyGy1TbCVa49LwRVwPtssobpZNheaQJyhyF0m2\nG4QNnk7Rr4mQS1wv5ZZPSVtB6I7f2nqoRFqkE+wvsPjDDhlR8fYdbL484Ab2SG6x\nrQ+yxM5ALdDLAhXUx+hgPI/ikapgDGuv8Af+QjBt/QA8/PCR4/ALee+UIYTLENdc\npHc9VLeuKqazmbebgzKFXos/CuROnflUyxndfvhno2jndk7h++pTyfTn2DWiNwLO\ng6XeXZbzeJrzJ7k7wWyIBMDb1+t0oCr4j5OfYwvEnbap7QIori/LNi6OSNZwlj8D\nI97fSvqlmsqGkJHbOgDZxK1baipD/w\u003d\u003d\n\u003dikmj\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
