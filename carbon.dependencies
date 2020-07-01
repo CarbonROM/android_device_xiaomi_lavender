@@ -12,5 +12,17 @@
    "repository"   : "LineageOS/android_packages_resources_devicesettings",
    "target_path"  : "packages/resources/devicesettings",
    "revision"     : "lineage-17.1"
+ },
+ {
+   "remote"       : "gh",
+   "repository"   : "LineageOS/android_packages_apps_FMRadio",
+   "target_path"  : "packages/apps/FMRadio",
+   "revision"     : "lineage-17.1"
+ },
+ {
+   "remote"       : "gh",
+   "repository"   : "LineageOS/android_vendor_qcom_opensource_fm-commonsys",
+   "target_path"  : "vendor/qcom/opensource/fm-commonsys",
+   "revision"     : "lineage-17.1"
  }
 ]
