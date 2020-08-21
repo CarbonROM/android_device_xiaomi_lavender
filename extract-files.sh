@@ -18,4 +18,9 @@ export DEVICE=lavender
 export DEVICE_COMMON=sdm660-common
 export VENDOR=xiaomi
 
+export DEVICE_BRINGUP_YEAR=2019
+
+export IMGLIB="$LINEAGE_ROOT"/vendor/"$VENDOR"/"$DEVICE"/proprietary/vendor/lib/libmmcamera_imglib.so
+sed -i "s/libmmcamera_mg_facepp_lib.so/libmmcamera_mg_faceppshim.so/g" $IMGLIB
+
 "./../../${VENDOR}/${DEVICE_COMMON}/extract-files.sh" "$@"

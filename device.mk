@@ -82,3 +82,7 @@ PRODUCT_PACKAGES += \
 $(call inherit-product, vendor/xiaomi/lavender/lavender-vendor.mk)
 
 QCOM_SOONG_NAMESPACE := $(LOCAL_PATH)/qcom-caf
+
+PRODUCT_PACKAGES += \
+	libmmcamera_mg_faceppshim
+
