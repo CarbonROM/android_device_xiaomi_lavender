@@ -58,6 +58,9 @@ BOARD_VENDOR_PLATFORM := xiaomi-sdm660
 TARGET_RECOVERY_UPDATER_LIBS := librecovery_updater_lavender
 TARGET_RELEASETOOLS_EXTENSIONS := $(DEVICE_PATH)
 
+# Recovery
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
+
 # Vendor Security patch level
 VENDOR_SECURITY_PATCH := 2020-04-05
 
