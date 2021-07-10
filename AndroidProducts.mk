@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lavender.mk
+    $(LOCAL_DIR)/carbon_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lavender-user \
-    lineage_lavender-userdebug \
-    lineage_lavender-eng
+    carbon_lavender-user \
+    carbon_lavender-userdebug \
+    carbon_lavender-eng

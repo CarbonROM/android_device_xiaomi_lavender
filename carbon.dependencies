@@ -1,0 +1,17 @@
+[
+ {
+   "remote": "lineage",
+   "repository": "LineageOS/android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings",
+   "revision": "lineage-18.1"
+ },
+ {
+   "repository": "CarbonROM/android_kernel_xiaomi_lavender",
+   "target_path": "kernel/xiaomi/sdm660"
+ },
+   {
+    "repository":  "CarbonROM/android_device_xiaomi_sdm660-common",
+    "target_path": "device/xiaomi/sdm660-common",
+    "revision":    "cr-9.0"
+  }
+]
