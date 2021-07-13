@@ -80,3 +80,5 @@ PRODUCT_PACKAGES += \
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/lavender/lavender-vendor.mk)
+
+QCOM_SOONG_NAMESPACE := $(LOCAL_PATH)/qcom-caf
